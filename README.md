@@ -1,4 +1,4 @@
 SEED_test
 =========
 
-Welcome to SEED
+Welcome to SEED!
